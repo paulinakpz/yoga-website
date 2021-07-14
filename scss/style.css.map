@@ -83,7 +83,8 @@
         "../node_modules/bootstrap/scss/helpers/_visually-hidden.scss",
         "../node_modules/bootstrap/scss/helpers/_stretched-link.scss",
         "../node_modules/bootstrap/scss/helpers/_text-truncation.scss",
-        "../node_modules/bootstrap/scss/utilities/_api.scss"
+        "../node_modules/bootstrap/scss/utilities/_api.scss",
+        "_classes-list.scss"
     ],
     "names": [],
     "file": "style.css"
