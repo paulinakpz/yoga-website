@@ -1,0 +1,8 @@
+.yoga-baner {
+    border-radius: 200px 200px 150px 300px;
+    width: 40vw;
+
+    @media(min-width: 992px) {
+        width: 35vw;
+    }
+}
