@@ -11541,16 +11541,21 @@ fieldset:disabled .btn {
   height: 300px;
 }
 
+footer {
+  padding: 0;
+}
+
 footer img {
   width: 80px;
 }
 
 footer p {
-  font-size: .4em;
+  font-size: .8em;
 }
 
 footer .social-media-icons {
-  width: 80%;
+  width: 100%;
+  margin: 2em auto;
 }
 
 @media (min-width: 768px) {
@@ -11562,6 +11567,7 @@ footer .social-media-icons {
 footer .social-media-icons a {
   color: #E6F4F1;
   font-weight: normal;
+  text-decoration: underline;
 }
 
 footer .footer-ul {
@@ -11570,18 +11576,20 @@ footer .footer-ul {
   display: flex;
   -ms-flex-pack: distribute;
       justify-content: space-around;
-  margin: 1.5em auto;
+  margin: 0 auto;
 }
 
 @media (min-width: 768px) {
   footer .footer-ul {
     width: 60%;
+    margin: 1.5em auto;
   }
 }
 
 footer .footer-ul li a {
   color: #E6F4F1;
   font-weight: normal;
+  text-decoration: underline;
 }
 
 /*!
