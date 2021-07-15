@@ -11512,4 +11512,28 @@ fieldset:disabled .btn {
     display: none !important;
   }
 }
+
+.opinions article {
+  min-height: 40vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.opinions img {
+  width: 80px;
+  height: auto;
+  margin: 2em auto 1em auto;
+}
+
+.opinions p {
+  padding: 0 10vw;
+}
 /*# sourceMappingURL=style.css.map */
