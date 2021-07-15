@@ -11545,6 +11545,10 @@ footer img {
   width: 80px;
 }
 
+footer p {
+  font-size: .4em;
+}
+
 footer .social-media-icons {
   width: 80%;
 }
@@ -11553,6 +11557,11 @@ footer .social-media-icons {
   footer .social-media-icons {
     width: 25%;
   }
+}
+
+footer .social-media-icons a {
+  color: #E6F4F1;
+  font-weight: normal;
 }
 
 footer .footer-ul {
@@ -11571,8 +11580,8 @@ footer .footer-ul {
 }
 
 footer .footer-ul li a {
-  color: #003842;
-  font-weight: 600;
+  color: #E6F4F1;
+  font-weight: normal;
 }
 
 /*!
