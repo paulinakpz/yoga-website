@@ -11542,7 +11542,7 @@ fieldset:disabled .btn {
 }
 
 footer {
-  padding: 0;
+  padding: 1.5em 0;
 }
 
 footer img {
@@ -11554,8 +11554,7 @@ footer p {
 }
 
 footer .social-media-icons {
-  width: 100%;
-  margin: 2em auto;
+  width: 80%;
 }
 
 @media (min-width: 768px) {
