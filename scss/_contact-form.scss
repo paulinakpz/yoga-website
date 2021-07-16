@@ -1,3 +1,13 @@
-.contact-form {
-    height: 300px;
+form {
+    width: 100%;
+}
+.input {
+    padding: 1em;
+    margin: 1em;
+    input {
+        border: 3px solid $primary;
+        background-color: $white;
+        text-align: left;
+        padding: 0.5em;
+    }
 }

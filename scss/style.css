@@ -11537,8 +11537,24 @@ fieldset:disabled .btn {
   padding: 0 10vw;
 }
 
-.contact-form {
-  height: 300px;
+form {
+  width: 100%;
+}
+
+.input {
+  padding: 1em;
+  margin: 1em;
+}
+
+.input input {
+  border: 3px solid #00c2cb;
+  background-color: #fff;
+  text-align: left;
+  padding: 0.5em;
+}
+
+.contact-info {
+  width: 100%;
 }
 
 footer {
