@@ -11513,6 +11513,10 @@ fieldset:disabled .btn {
   }
 }
 
+.highlight:hover {
+  opacity: 0.8;
+}
+
 .opinions article {
   min-height: 40vh;
   display: -webkit-box;
