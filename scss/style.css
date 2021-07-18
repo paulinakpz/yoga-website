@@ -11517,6 +11517,11 @@ fieldset:disabled .btn {
   opacity: 0.8;
 }
 
+.resize:hover {
+  -webkit-transform: scale(1.02);
+          transform: scale(1.02);
+}
+
 .opinions article {
   min-height: 40vh;
   display: -webkit-box;
