@@ -11570,6 +11570,10 @@ form {
   z-index: 1;
 }
 
+#scroll-up i {
+  font-size: 3em;
+}
+
 footer {
   padding: 1.5em 0;
 }
